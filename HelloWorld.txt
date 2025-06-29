@@ -1,2 +1,2 @@
 Hello All,
-This s my first file to commit in Github
+This is my first file to commit in Github
